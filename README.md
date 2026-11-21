@@ -4,7 +4,7 @@
 
 > ⚠️ **Sample data.** All drivers, vehicles, trips and incidents are **synthetic**, modelled on the kind of daily dispatch operation I work in on a regional paratransit contract (152 drivers, Durham Region). No real rider, driver or company data is included.
 
-**Tools:** SQL (SQLite) · Excel
+**Tools:** SQL (SQLite)
 
 ---
 

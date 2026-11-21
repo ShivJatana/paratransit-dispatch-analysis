@@ -6,7 +6,7 @@
 Pickups were on time 83.5% of the time. Most lateness comes from three things dispatch can plan for: **peak periods**, **Monday sick calls** and **older vans breaking down**. Rural North Durham trips need their own scheduling approach.
 
 ## 1. Peaks cause most lateness
-**Evidence:** On-time is 76–78% from 06:30 to 09:00 and from 14:00 to 16:30, versus 90–93% the rest of the day. (Queries 1.2, 1.3)
+**Evidence:** On-time is 76–78% from 06:30 to 09:00 and from 14:00 to 16:30, versus about 90–94% the rest of the day. (Queries 1.2, 1.3)
 **Recommendation:** Pad peak trip times by 5–10 minutes in scheduling, and stagger driver start times so more vehicles are on the road at 06:30 and 14:00.
 
 ## 2. Monday sick calls are the biggest single risk
