@@ -1,5 +1,7 @@
 # Paratransit Dispatch Analysis
 
+![Tools: SQL (SQLite)](https://img.shields.io/badge/Tools-SQL%20%28SQLite%29-1F3A5F?style=flat-square) ![Domain: Paratransit dispatch](https://img.shields.io/badge/Domain-Paratransit%20dispatch-4A5568?style=flat-square) ![Data: Synthetic](https://img.shields.io/badge/Data-Synthetic-lightgrey?style=flat-square) ![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
 **What makes specialized-transit pickups run late, and what can dispatch control?**
 
 > **Sample data.** All drivers, vehicles, trips and incidents are **synthetic**, modelled on the kind of daily dispatch operation I work in on a regional paratransit contract (152 drivers, Durham Region). No real rider, driver or company data is included.
