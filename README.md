@@ -1,8 +1,8 @@
-# 🚐 Paratransit Dispatch Analysis
+# Paratransit Dispatch Analysis
 
 **What makes specialized-transit pickups run late, and what can dispatch control?**
 
-> ⚠️ **Sample data.** All drivers, vehicles, trips and incidents are **synthetic**, modelled on the kind of daily dispatch operation I work in on a regional paratransit contract (152 drivers, Durham Region). No real rider, driver or company data is included.
+> **Sample data.** All drivers, vehicles, trips and incidents are **synthetic**, modelled on the kind of daily dispatch operation I work in on a regional paratransit contract (152 drivers, Durham Region). No real rider, driver or company data is included.
 
 **Tools:** SQL (SQLite)
 
